@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I do not post much on Github except the occasional simple here and there stuff. Primarily I use this as a hosting page for my website, why not it is free here :)
+But I do have some cool projects here which one can take a look at.
+
 <!--
 **rcshivaji/rcshivaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
