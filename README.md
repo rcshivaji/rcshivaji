@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I do not post much on Github except the occasional simple here and there stuff. Primarily I use this as a hosting page for my website, why not it is free here :)
+I do not post much on Github except the occasional simple here and there stuff. Primarily I use this as a page for dumping all the code for the various projects and analysis that I have done over the years, why not it is free here :)
 But I do have some cool projects here which one can take a look at.
 
 <!--
